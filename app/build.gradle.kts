@@ -5,7 +5,7 @@ plugins {
 
 android {
     namespace = "com.seoleo.quizegametdd"
-    compileSdk = 34
+    compileSdk = 33
 
     defaultConfig {
         applicationId = "com.seoleo.quizegametdd"
